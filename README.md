@@ -2,10 +2,7 @@
 
 [Test](/01.mp3)
 51252
-<script>
-var audio = new Audio("https://magmoule.github.io/01.mp3")
-audio.play()
-</script>
+
 
 You can use the [editor on GitHub](https://github.com/Magmoule/magmoule.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
