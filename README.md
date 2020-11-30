@@ -2,6 +2,11 @@
 
 [Test](/01.mp3)
 
+<script>
+var audio = new Audio("https://magmoule.github.io/01.mp3")
+audio.play()
+</script>
+
 You can use the [editor on GitHub](https://github.com/Magmoule/magmoule.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
